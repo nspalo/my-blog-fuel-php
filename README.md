@@ -1,7 +1,6 @@
 # Dockerized Web Development Template
-> A simple project that aims to build a Dockerized template environment for web development
-
-![CI BUILD](https://github.com/nspalo/dockerize-web-development-template/actions/workflows/ci-build.yml/badge.svg)
+> A simple dockerized blog project made with FuelPHP 1.8.2
+> Just wanted to learn and try FuelPHP
 
 ## Directory Structure
 - Below is an overview of how the project directory structure would look like.
