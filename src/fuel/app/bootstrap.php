@@ -16,6 +16,10 @@ require COREPATH.'bootstrap.php';
 // Add framework overload classes here
 \Autoloader::add_classes(array(
 	// Example: 'View' => APPPATH.'classes/myview.php',
+
+    // Namespace
+    'Fuel\\Enums\\StatusEnum' => APPPATH . 'classes/enum/StatusEnum.php',
+    'Fuel\\Tasks\\Status' => APPPATH . 'tasks/Status.php',
 ));
 
 // Register the autoloader
