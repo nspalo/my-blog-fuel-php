@@ -1,5 +1,5 @@
 # Install PHP
-FROM php:8.2-fpm-alpine
+FROM php:7.3-fpm-alpine
 
 # Copy PHP configuration
 #COPY ./containers/php/config/php-$SYS_ENV-$HOST_SECRET.ini /usr/local/etc/php/php.ini
